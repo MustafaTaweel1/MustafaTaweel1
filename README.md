@@ -5,7 +5,7 @@
 ---
 
 ## ⚡ About Me
-IT student passionate about web development, cloud architectures, and DevOps practices. Currently interning at **Palestine Islamic Bank**, building frontend interfaces, backend services, and automated deployment pipelines.
+IT student passionate about web development, <!-- cloud architectures, and DevOps practices-->. Currently interning at **Palestine Islamic Bank**, building frontend interfaces, backend services, and automated deployment pipelines.
 
 ---
 
