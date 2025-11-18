@@ -72,7 +72,7 @@ IT student passionate about web development, <!-- cloud architectures, and DevOp
 ---
 
 ## 🚧 Currently Learning
-- Advanced DevOps: IaC (Terraform), Kubernetes + Helm, monitoring & observability.  
+<!--- Advanced DevOps: IaC (Terraform), Kubernetes + Helm, monitoring & observability. -->
 - Next.js + React + TypeScript for scalable frontends.  
 - Building resilient cloud-native applications.
 
