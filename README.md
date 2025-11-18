@@ -79,7 +79,7 @@ IT student passionate about web development, <!-- cloud architectures, and DevOp
 ---
 
 ## 📂 Selected Projects
-- **Digital Transactions Platform (concept)** — React frontend + Node.js API.  
+<!-- - **Digital Transactions Platform (concept)** — React frontend + Node.js API.  -->
 <!-- - **Graduation Project: AI Omni-Channel Assistant** — Multi-channel assistant design for Islamic banking.  -->
 ---
 
