@@ -119,7 +119,7 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
 
 
 
