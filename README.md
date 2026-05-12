@@ -1,99 +1,184 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mustafa Taweel
+<div align="center">
 
-👨‍💻 **IT Student @ Al-Quds University** | 🌐 **Web Developer** | 💼 **Intern @ Palestine Islamic Bank** | 📍 **Palestine**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Mustafa%20Taweel&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20IT%20Student%20%7C%20Palestine%20%F0%9F%87%B5%F0%9F%87%B8&descAlignY=58&descSize=17" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=⚙️+Automating+Everything+with+CI%2FCD;☁️+AWS+%7C+GCP+%7C+Azure+Cloud+Engineer;🐳+Docker+%7C+Kubernetes+%7C+Helm;🔁+GitOps+%7C+IaC+%7C+Observability;🔥+Build.+Ship.+Scale.+Repeat." alt="Typing SVG" />
+</a>
 
-## ⚡ About Me
-IT student passionate about web development, <!-- cloud architectures, and DevOps practices-->. Currently interning at **Palestine Islamic Bank**, building frontend interfaces, backend services <!-- , and automated deployment pipelines.--> .
+<br/>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=MustafaTaweel1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MustafaTaweel1)
+[![GitHub followers](https://img.shields.io/github/followers/MustafaTaweel1?style=for-the-badge&color=facc15&labelColor=0d1117&logo=github)](https://github.com/MustafaTaweel1)
+[![GitHub stars](https://img.shields.io/github/stars/MustafaTaweel1?style=for-the-badge&color=ff6b6b&labelColor=0d1117&logo=github)](https://github.com/MustafaTaweel1)
 
-## 🧰 Skills
-
-### 🔷 Frontend
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-</p>
-
-### 🔷 Backend
-<p>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
-
-### 🔷 Programming Languages
-<p>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="Bash" /></a>
-</p>
-
-### 🔷 Databases
-<p>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-</p>
-
-### 🔷 Cloud & DevOps
-<p>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="GCP" /></a>
-<a href="https://portal.azure.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" /></a>
-</p>
-
-**CI / Automation:**  
-- GitHub Actions / GitLab CI — automated build & deployment pipelines.  
-- Docker-based builds, container registries, and deployment pipelines.
+</div>
 
 ---
 
-## 🛠 Tools & OS
-<p>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" /></a>
+## 🧬 About Me
+
+```yaml
+# mustafa.yaml
+name: Mustafa Taweel
+role: DevOps Engineer & IT Student
+university: Al-Quds University 🎓
+location: Palestine 🇵🇸
+internship: Palestine Islamic Bank — DevOps & Web Services
+
+focus:
+  - Infrastructure as Code (Terraform, Helm)
+  - Container Orchestration (Docker, Kubernetes)
+  - CI/CD Pipelines (GitHub Actions, GitLab CI)
+  - Cloud Platforms (AWS · GCP · Azure)
+  - Observability & Monitoring
+
+currently_learning:
+  - Redis (caching, pub/sub, streams)
+  - Next.js + TypeScript (modern frontends)
+  - Advanced Kubernetes (RBAC, Helm, operators)
+
+motto: "Automate everything. Monitor everything. Break nothing. 🚀"
+```
+
+---
+
+## 🧰 Tech Arsenal
+
+### ☁️ Cloud & DevOps  ← *Primary Focus*
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### 🛠 Tools & OS
+
+<p align="center">
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## 🚧 Currently Learning
-<!--- Advanced DevOps: IaC (Terraform), Kubernetes + Helm, monitoring & observability. -->
-- Next.js + React + TypeScript for scalable frontends.  
-- Building resilient cloud-native applications.
+## 🌐 3D Contribution Globe
 
----
+<div align="center">
 
-## 📂 Selected Projects
-<!-- - **Digital Transactions Platform (concept)** — React frontend + Node.js API.  -->
-<!-- - **Graduation Project: AI Omni-Channel Assistant** — Multi-channel assistant design for Islamic banking.  -->
----
+<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
 
-## 📫 Connect with me
-<p align="left">
-<a href="https://www.github.com/MustafaTaweel1" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/mustafa-altaweel-30222025b" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://discord.com/users/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-<a href="https://www.facebook.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
-</p>
+
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-<a href="http://www.github.com/MustafaTaweel1"><img src="https://github-readme-stats.vercel.app/api?username=MustafaTaweel1&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true" alt="GitHub stats" /></a>
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaTaweel1&show_icons=true&count_private=true&title_color=00d9ff&text_color=ffffff&icon_color=facc15&bg_color=0d1117&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTaweel1&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaTaweel1&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=facc15&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" width="60%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaTaweel1&bg_color=0d1117&color=00d9ff&line=facc15&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake.svg"/>
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MustafaTaweel1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altaweel-30222025b)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+
+</div>
+
+> 💬 **Open to collaborations, DevOps discussions, and open-source contributions!**
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let's+Build+%26+Automate+Together+🚀&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
+</div>
