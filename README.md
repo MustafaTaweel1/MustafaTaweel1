@@ -119,9 +119,7 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
-
-
+<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
@@ -159,8 +157,6 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake.svg"/>
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
-
 
 </div>
 
