@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Mustafa%20Taweel&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20IT%20Student%20%7C%20Palestine%20%F0%9F%87%B5%F0%9F%87%B8&descAlignY=58&descSize=17" width="100%"/>
 
-<!-- ✅ FIX: removed dead git.io wrapper link, emoji encoded properly for URL -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD;%E2%98%81%EF%B8%8F+AWS+%7C+GCP+%7C+Azure+Cloud+Engineer;%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+Helm;%F0%9F%94%81+GitOps+%7C+IaC+%7C+Observability;%F0%9F%94%A5+Build.+Ship.+Scale.+Repeat." alt="Typing SVG" />
 
 <br/>
@@ -118,7 +117,8 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 
-<!-- ✅ FIX: removed leading whitespace from URL that caused 404 -->
+<!-- ✅ FIX: workflow uses actions/checkout@v4 (v5 does not exist). Run the workflow manually
+     from Actions tab first time — the SVG will appear here after the first successful run. -->
 <img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
@@ -129,10 +129,14 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 
+<!-- Main stats card -->
 <img src="https://github-readme-stats.vercel.app/api?username=MustafaTaweel1&show_icons=true&count_private=true&title_color=00d9ff&text_color=ffffff&icon_color=facc15&bg_color=0d1117&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTaweel1&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaTaweel1&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=facc15&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" width="60%"/>
+<!-- ✅ FIX: top-langs switched to anuraghazra's stable deployment -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTaweel1&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8&cache_seconds=1800" height="170"/>
+
+<!-- ✅ FIX: streak stats moved to streak-stats.demolab.com (heroku instance is dead) -->
+<img src="https://streak-stats.demolab.com/?user=MustafaTaweel1&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=facc15&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" width="60%"/>
 
 </div>
 
@@ -152,7 +156,8 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 
-<!-- ✅ Snake paths are correct — if still broken, go to Actions tab and run "Generate Snake Animation" manually -->
+<!-- ✅ FIX: workflow now uses actions/checkout@v3 + correct branch name.
+     Go to Actions → "Generate Snake Animation" → Run workflow to generate on first run. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake.svg"/>
@@ -167,10 +172,9 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 
-<!-- ✅ FIX: removed Discord & Facebook badges with empty/broken URLs -->
-<!-- Add them back once you have your real Discord user ID and Facebook profile URL -->
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaTaweel1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altaweel-30222025b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafataweel1@gmail.com)
 
 </div>
 
