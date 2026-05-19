@@ -113,30 +113,17 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 ---
 
-## 🌐 3D Contribution Globe
-
-<div align="center">
-
-<!-- ✅ FIX: workflow uses actions/checkout@v4 (v5 does not exist). Run the workflow manually
-     from Actions tab first time — the SVG will appear here after the first successful run. -->
-<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Main stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaTaweel1&show_icons=true&count_private=true&title_color=00d9ff&text_color=ffffff&icon_color=facc15&bg_color=0d1117&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaTaweel1&show_icons=true&count_private=true&title_color=00d9ff&text_color=ffffff&icon_color=facc15&bg_color=0d1117&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTaweel1&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
-<!-- ✅ FIX: top-langs switched to anuraghazra's stable deployment -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTaweel1&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8&cache_seconds=1800" height="170"/>
+<br/><br/>
 
-<!-- ✅ FIX: streak stats moved to streak-stats.demolab.com (heroku instance is dead) -->
-<img src="https://streak-stats.demolab.com/?user=MustafaTaweel1&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=facc15&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=MustafaTaweel1&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=facc15&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" width="60%" alt="GitHub Streak"/>
 
 </div>
 
@@ -146,7 +133,19 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaTaweel1&bg_color=0d1117&color=00d9ff&line=facc15&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaTaweel1&bg_color=0d1117&color=00d9ff&line=facc15&point=ff6b6b&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🌐 3D Contribution Globe
+
+> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/profile-3d.yml) on first use.*
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
@@ -154,10 +153,10 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 ## 🐍 Contribution Snake
 
+> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/snake.yml) on first use.*
+
 <div align="center">
 
-<!-- ✅ FIX: workflow now uses actions/checkout@v3 + correct branch name.
-     Go to Actions → "Generate Snake Animation" → Run workflow to generate on first run. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake.svg"/>
@@ -174,7 +173,6 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaTaweel1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altaweel-30222025b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafataweel1@gmail.com)
 
 </div>
 
@@ -187,5 +185,5 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let's+Build+%26+Automate+Together+🚀&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let%27s+Build+%26+Automate+Together+%F0%9F%9A%80&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </div>
