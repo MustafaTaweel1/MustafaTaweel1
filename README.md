@@ -138,8 +138,47 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 </div>
 
 ---
+# 🌐 3D Contribution Globe
 
-## 🌐 3D Contribution Globe
+> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/profile-3d.yml) on first use.*
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+# 🐍 Contribution Snake
+
+> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/snake.yml) on first use.*
+
+![GitHub Snake](./output/github-contribution-grid-snake.svg)
+
+---
+
+# 📬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/MustafaTaweel1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💬 Open to collaborations, DevOps discussions, and open-source contributions!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer wave"/>
+</p>
+
+
+
+<!-- ## 🌐 3D Contribution Globe
 
 > ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/profile-3d.yml) on first use.*
 
@@ -186,4 +225,4 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let%27s+Build+%26+Automate+Together+%F0%9F%9A%80&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
-</div>
+</div> -->
