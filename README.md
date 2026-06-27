@@ -43,7 +43,8 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 ## 🧰 Tech Arsenal
 
-### ☁️ Cloud & DevOps  ← *Primary Focus*
+<!-- ### ☁️ Cloud & DevOps  ← *Primary Focus* -->
+### ☁️ Cloud & DevOps 
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
@@ -140,7 +141,7 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 ---
 # 🌐 3D Contribution Globe
 
-> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/profile-3d.yml) on first use.*
+<!-- > ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/profile-3d.yml) on first use.* -->
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -148,7 +149,7 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 # 🐍 Contribution Snake
 
-> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/snake.yml) on first use.*
+<!-- > ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/snake.yml) on first use.* -->
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-contribution-grid-snake-dark.svg)
 
