@@ -150,7 +150,8 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 
 > ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/snake.yml) on first use.*
 
-![GitHub Snake](./output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
