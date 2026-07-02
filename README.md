@@ -22,7 +22,7 @@ name: Mustafa Taweel
 role: DevOps Engineer & IT Student
 university: Al-Quds University 🎓
 location: Palestine 🇵🇸
-internship: Palestine Islamic Bank — DevOps & Web Services
+internship: DevOps & Web Services
 
 focus:
   - Infrastructure as Code (Terraform, Helm)
