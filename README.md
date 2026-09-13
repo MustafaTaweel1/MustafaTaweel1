@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Mustafa%20Taweel&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20IT%20Student%20%7C%20Palestine%20%F0%9F%87%B5%F0%9F%87%B8&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Mustafa%20Taweel&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Junior%20Full-Stack%20Developer%20%7C%20IT%20Graduate%20%7C%20Palestine%20%F0%9F%87%B5%F0%9F%87%B8&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9A%99%EF%B8%8F+Automating+Everything+with+CI%2FCD;%E2%98%81%EF%B8%8F+AWS+%7C+GCP+%7C+Azure+Cloud+Engineer;%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+Helm;%F0%9F%94%81+GitOps+%7C+IaC+%7C+Observability;%F0%9F%94%A5+Build.+Ship.+Scale.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+Tailwind+CSS;C%23+%7C+ASP.NET+Core+%7C+REST+APIs;SQL+%7C+Testing+%7C+GitHub+Actions;Build.+Test.+Learn.+Repeat." alt="Full-stack development technologies" />
 
 <br/>
 
@@ -19,47 +19,46 @@
 ```yaml
 # mustafa.yaml
 name: Mustafa Taweel
-role: DevOps Engineer & IT Student
+role: Junior Full-Stack Developer
+education: Information Technology Graduate
 university: Al-Quds University 🎓
 location: Palestine 🇵🇸
-internship: DevOps & Web Services
+internship: Palestine Islamic Bank — Backend Development & IT Support
 
 focus:
-  - Infrastructure as Code (Terraform, Helm)
-  - Container Orchestration (Docker, Kubernetes)
-  - CI/CD Pipelines (GitHub Actions, GitLab CI)
-  - Cloud Platforms (AWS · GCP · Azure)
-  - Observability & Monitoring
+  - Responsive Web Applications (React, Next.js, Tailwind CSS)
+  - Backend Development (ASP.NET Core, Node.js, Laravel)
+  - REST APIs & Relational Databases
+  - Software Testing & API Documentation
+  - CI/CD Pipelines & Containerization
 
 currently_learning:
-  - Redis (caching, pub/sub, streams)
-  - Next.js + TypeScript (modern frontends)
-  - Advanced Kubernetes (RBAC, Helm, operators)
+  - Full-Stack Application Architecture
+  - QA, Test Cases & Regression Testing
+  - UI/UX & Accessible Interfaces
 
-motto: "Automate everything. Monitor everything. Break nothing. 🚀"
+motto: "Build useful software. Test carefully. Keep learning. 🚀"
 ```
 
 ---
 
+## 🚀 Featured Projects
+
+### [Connect Hub — Chat & Voice Platform](https://github.com/MustafaTaweel1/connect-hub)
+
+- Built responsive interfaces with chat and voice-message workflows.
+- Developed Supabase services for authentication, database operations, and real-time communication.
+- Configured GitHub Actions pipelines covering code checks, 38+ automated tests, builds, and security scanning.
+
+### [User Management API — ASP.NET Core](https://github.com/MustafaTaweel1/ReactAPI)
+
+- Implemented asynchronous REST endpoints using C# and ASP.NET Core.
+- Used Entity Framework Core and SQL Server for relational data and migrations.
+- Applied dependency injection and documented API endpoints with Swagger/OpenAPI.
+
+---
+
 ## 🧰 Tech Arsenal
-
-<!-- ### ☁️ Cloud & DevOps  ← *Primary Focus* -->
-### ☁️ Cloud & DevOps 
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
 
 ### 🎨 Frontend
 
@@ -96,11 +95,35 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 ### 🗄️ Databases
 
 <p align="center">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+### ☁️ Cloud & DevOps 
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+
+### 🧪 Testing & API Tools
+
+Swagger/OpenAPI · Vitest · Automated Testing · ESLint · Postman
 
 ### 🛠 Tools & OS
 
@@ -163,7 +186,7 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/mustafa-altaweel-30222025b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -171,60 +194,9 @@ motto: "Automate everything. Monitor everything. Break nothing. 🚀"
 ---
 
 <p align="center">
-  💬 Open to collaborations, DevOps discussions, and open-source contributions!
+  💬 Open to junior full-stack opportunities, collaborations, and open-source contributions!
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer wave"/>
 </p>
-
-
-
-<!-- ## 🌐 3D Contribution Globe
-
-> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/profile-3d.yml) on first use.*
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-> ⚙️ *Generated daily by CI — [run the workflow manually](../../actions/workflows/snake.yml) on first use.*
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MustafaTaweel1/MustafaTaweel1/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaTaweel1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altaweel-30222025b)
-
-</div>
-
----
-
-<div align="center">
-
-💬 **Open to collaborations, DevOps discussions, and open-source contributions!**
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let%27s+Build+%26+Automate+Together+%F0%9F%9A%80&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
-</div> -->
